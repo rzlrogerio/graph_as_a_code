@@ -62,13 +62,13 @@ Gerar gráficos a partir dos arquivos .dot
 dot -Tpng horin.dot -o horin.png
 ```
 
-![Gráfico Horizontal](horin.png)
+![Gráfico Horizontal](horizontal.png)
 
 ```sh
 dot -Tpng verti.dot -o verti.png
 ```
 
-![Gráfico Vertical](verti.png)
+![Gráfico Vertical](vertical.png)
 
 ### Gerar SVG:
 
